@@ -1,4 +1,4 @@
-Free Download Source Code "Online Learning Management System"
+
 
 FIRST Download
 
@@ -31,5 +31,3 @@ Admin
 user: admin@example.com
 pass: admin
 
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
